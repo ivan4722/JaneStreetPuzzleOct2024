@@ -1,5 +1,5 @@
 # Summary
-Algorithmic coding solution leveraging BFS to solve the Jane Street Puzzle for October 2024 
+Algorithmic coding solution leveraging BFS to solve the Jane Street Puzzle for October 2024 \
 https://www.janestreet.com/puzzles/knight-moves-6-index/
 
 # Code
